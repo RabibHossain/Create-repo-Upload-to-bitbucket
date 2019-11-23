@@ -2,7 +2,6 @@ New Project [REPO]
 
 ########  OPEN cmd terminal ########
 
-
 1. Your Local Path [cd /path/to/your/repo]
 2. Git init
 3. git remote add origin https://YourAccount@bitbucket.org/YourAccountName/YourRepositoryName.git
