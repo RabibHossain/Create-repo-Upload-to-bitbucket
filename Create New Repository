@@ -1,0 +1,9 @@
+New Project [REPO]
+
+1. Your Local Path [cd /path/to/your/repo]
+2. Git init
+3. git remote add origin https://YourAccount@bitbucket.org/YourAccountName/YourRepositoryName.git
+4. Git add .
+5. Git commit -m “Your Comment Here”
+6. git push -u origin master
+
